@@ -1,7 +1,7 @@
 {
-    "name": "Ryo-Deptry",
+    "name": "Đức Ryo",
     "version": "1.2.14",
-    "description": "Xin Chào?",
+    "description": "Mua File Bot Liên Hệ Facebook !!",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
