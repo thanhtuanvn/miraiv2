@@ -1,7 +1,7 @@
 {
     "name": "Thanh Tuấn",
     "version": "1.2.14",
-    "description": "Mua File Bot Liên Hệ Facebook !!",
+    "description": "Mua File Bot Liên Hệ Facebook Thanh Tuấn",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
